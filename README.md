@@ -1,4 +1,4 @@
-# ITSC-1213" {Problem Solve 19
+# ITSC-1213: Problem Solve 19
 
 - Your full name: Eric Major
 - Your UNC Charlotte's email address: emajor2@uncc.edu
