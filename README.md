@@ -7,3 +7,5 @@
 - The name of this activity: ITSC1213_ProblemSolve19
 
 This file has been modified locally.
+
+Could not execute javadoc (confirmed with Denis on July 15, 2025).
