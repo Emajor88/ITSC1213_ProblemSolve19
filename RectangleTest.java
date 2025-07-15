@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.awt.Rectangle;
 
+//This file has been modified locally
+
 public class RectangleTest {
     public static void main(String[] args) {   
              // Inside main() 
