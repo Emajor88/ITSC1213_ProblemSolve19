@@ -2,7 +2,8 @@ import java.awt.Color;
 
 /**
  * This class describes a circle with a given radius and color.
- * This is my private solution to problem solve 19
+ * This is my private solution to problem solve 19.
+ * This file has been modified locally.
  * @author Eric Major
  * @version 20250715
  */
@@ -26,7 +27,7 @@ public class Circle {
 
     /**
      * summary: 2nd constructor with given radius and color
-     * @param null
+     * @param double, Color
      * @return void
      */ 
     public Circle(double r, Color clr) {
