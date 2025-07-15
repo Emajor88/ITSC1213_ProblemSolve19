@@ -10,7 +10,7 @@ public class RectangleTest {
         System.out.print("Enter height: "); 
         int height = input.nextInt();
         
-        //Old Code:
+        //Orginal Code:
         //Rectangle box1 = new Rectangle(10, 10, 40, 30);
         Rectangle box1 = new Rectangle(10, 10, width, height);
         System.out.println("box1: " + box1);   
