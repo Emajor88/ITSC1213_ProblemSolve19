@@ -15,7 +15,21 @@ public class RectangleTest {
         //Orginal Code:
         //Rectangle box1 = new Rectangle(10, 10, 40, 30);
         Rectangle box1 = new Rectangle(10, 10, width, height);
-        System.out.println("box1: " + box1);   
+        System.out.println("box1: " + box1);
+        
+        
+        double area = box1.getWidth() * box1.getHeight();
+        double expectedArea = width * height;
+
+         if (area == expectedArea) {
+            System.out.println("++++ Test passed: Area is correct.");
+            } else {
+                System.out.println("---- Test failed: Expected " + expectedArea + " but got " + area);
+            }
+
+
+
+
     } 
 
 }
