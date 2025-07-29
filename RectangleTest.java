@@ -1,6 +1,12 @@
 import java.util.Scanner;
 import java.awt.Rectangle;
 
+/**
+* Rectangle class
+* Test the calculation of a rectangle"s area.
+*Author: Eric Major
+* Date: 2025-07-27
+*/
 //This file has been modified locally
 
 public class RectangleTest {
