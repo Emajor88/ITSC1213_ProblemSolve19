@@ -18,8 +18,8 @@ public class RectangleTest {
         System.out.println("box1: " + box1);
         
         
-        double area = box1.getWidth() * box1.getHeight();
-        double expectedArea = width * height;
+        int area = box1.getWidth() * box1.getHeight();
+        int expectedArea = width * height;
 
          if (area == expectedArea) {
             System.out.println("++++ Test passed: Area is correct.");
@@ -28,7 +28,7 @@ public class RectangleTest {
             }
 
 
-
+            input.close();
 
     } 
 
